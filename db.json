@@ -1,10 +1,10 @@
 {
   "tabitems": [
     { "id": 1, "title": "Desktop" },
-    { "id": 3, "title": "RollCall" }
+    { "id": 3, "title": "RollCall" },
     { "id": 2, "title": "Trendcaster" },
-    { "id": 3, "title": "Maps" }
-    { "id": 3, "title": "Reporting" }
+    { "id": 3, "title": "Maps" },
+    { "id": 3, "title": "Reporting" },
     { "id": 3, "title": "New +" }
   ]
 }
